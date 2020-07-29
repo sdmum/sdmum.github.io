@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"+BtO":function(n,t,o){"use strict";o.r(t),o.d(t,"FarmerModule",(function(){return u}));var r=o("ofXK"),e=o("tyNb"),c=o("3Pt+"),i=o("fXoL");const s=[];let u=(()=>{class n{}return n.\u0275mod=i.Kb({type:n}),n.\u0275inj=i.Jb({factory:function(t){return new(t||n)},imports:[[r.b,c.k,e.e.forChild(s)]]}),n})()}}]);
